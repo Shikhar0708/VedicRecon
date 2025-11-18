@@ -1,12 +1,19 @@
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Version](https://img.shields.io/badge/Version-1.0.a--alpha-orange)
-![Stars](https://img.shields.io/github/stars/Shikhar0708/VedicRecon?style=flat)
-![Forks](https://img.shields.io/github/forks/Shikhar0708/VedicRecon?style=flat)
-![Issues](https://img.shields.io/github/issues/Shikhar0708/VedicRecon)
-![License](https://img.shields.io/badge/License-MIT-green)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue" />
+  <img src="https://img.shields.io/github/stars/Shikhar0708/VedicRecon?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/Shikhar0708/VedicRecon?style=flat-square" />
+  <img src="https://img.shields.io/github/issues/Shikhar0708/VedicRecon?style=flat-square" />
+  <img src="https://img.shields.io/github/license/Shikhar0708/VedicRecon?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Alpha%201.0.a-yellow" />
+</p>
 
 
-**VedicRecon** is a lightweight, fast, offensive-security focused reconnaissance tool designed for real-world pentesters, bug bounty hunters, and red team operators.
+<h1 align="center">⚡ VedicRecon — Offensive Reconnaissance Toolkit ⚡</h1>
+
+<p align="center">
+A lightweight, fast, offensive-security focused reconnaissance suite for pentesters & red teams.
+</p>
+
 
 Built with a modular engine, VedicRecon performs:
 
@@ -182,10 +189,11 @@ sudo python3 vedicrecon.py
 
 **Shikhar Kant Sinha (DEVIC / VEDIC)**  
 Aspiring Penetration Tester | IoT & Embedded Systems Background  
-Building offensive security tools with a focus on automation and reliability.
+Building offensive security tools with automation & reliability.
 
-- 🔗 GitHub: [Shikhar0708](https://github.com/Shikhar0708)  
+- 🔗 GitHub: [Shikhar0708](https://github.com/Shikhar0708)
 - 🛠️ Projects: VedicRecon, IoT Security Tools, Recon Automations  
-- 📧 Contact: *add your email if you want (optional)*  
-- 🕉️ Motto: *“Knowledge is the first weapon.”*
+- 📧 Email: *optional*
+- 🕉️ Motto: **“Knowledge is the first weapon.”**
+
 
