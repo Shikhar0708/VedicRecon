@@ -22,9 +22,9 @@ def run_nmap_scan(target, profile, show_banner=True,
         print(Fore.RED + "[!] Root privileges are required!\n" +
               Fore.YELLOW + "Use sudo to run this tool.\n" + Style.RESET_ALL)
         return
-    if show_banner:
-        from utils.banner import banner
-        banner()
+    # if show_banner:
+    #     from utils.banner import banner
+    #     banner()
         
     # Load profile
     try:
