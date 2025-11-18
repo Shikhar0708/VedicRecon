@@ -5,7 +5,6 @@ import xml.etree.ElementTree as ET
 from colorama import Fore, Style, init
 
 init(autoreset=True)
-from utils.banner import banner
 from utils.config_loader import load_profile
 from utils.privilege_check import is_root
 from utils.exploit_search import search_exploits
@@ -22,8 +21,6 @@ def run_nmap_scan(target, profile, show_banner=True,
         print(Fore.RED + "[!] Root privileges are required!\n" +
               Fore.YELLOW + "Use sudo to run this tool.\n" + Style.RESET_ALL)
         return
-    if show_banner:
-        banner()
         
     # Load profile
     try:
