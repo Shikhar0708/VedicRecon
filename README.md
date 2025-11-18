@@ -14,16 +14,16 @@ Built with a modular engine, VedicRecon performs:
 
 🐍 100% Python — hackable, extendable, and built for automation
 
-## *Version: 1.0.a (Alpha)*
-## *Author: DEVIC / VEDIC*
+*Version: 1.0.a (Alpha)*
+*Author: DEVIC / VEDIC*
 
 # ⚡ Features (Alpha)
-# 📌 1. ARP Discovery Mode
+## 📌 1. ARP Discovery Mode
 
 # Auto-detect devices on the network using ARP.
 # Select the target interactively.
 
-# 📌 2. Profile-Based Nmap Scanning
+## 📌 2. Profile-Based Nmap Scanning
 
 ## Scan profiles:
 
@@ -38,7 +38,7 @@ Built with a modular engine, VedicRecon performs:
 | **version** | `-sV`                                  | Service version detection only (quick, precise).                     |
 
 
-📌 3. Unified XML Scan Engine
+## 📌 3. Unified XML Scan Engine
 
 VedicRecon performs a single-shot Nmap XML scan with:
 
@@ -58,7 +58,7 @@ version
 
 NSE output
 
-📌 4. Smart Searchsploit Enumeration
+## 📌 4. Smart Searchsploit Enumeration
 
 No more dumping 900 irrelevant MySQL exploits when no version exists.
 
@@ -76,7 +76,7 @@ Forced exploit mode (--exploits)
 
 Forced skip mode (--no-exploits)
 
-📌 5. Multi-Format Reporting
+## 📌 5. Multi-Format Reporting
 
 Generate professional reports:
 
@@ -86,35 +86,40 @@ XML — raw Nmap XML
 
 HTML — clean, human-friendly output
 
-📌 6. GUI + CLI Support
+## 📌 6. GUI + CLI Support
 
 vedicrecon.py → Interactive mode
 
 vedicrecon-cli.py → CLI mode for automation
 
-🧪 CLI Usage
+## 🧪 CLI Usage
 Basic Scan
+```bash
 sudo python3 vedicrecon-cli.py -t <target> -p fast
-
+```
 Auto ARP Target Discovery
+```bash
 sudo python3 vedicrecon-cli.py --arp -p fast
-
+```
 Force Exploit Search
+```bash
 sudo python3 vedicrecon-cli.py -t <target> -p fast --exploits
-
+```
 Skip Exploit Search
+```bash
 sudo python3 vedicrecon-cli.py -t <target> -p fast --no-exploits
-
+```
 Auto-save Report
+```bash
 --save txt
 --save xml
 --save html
-
+```
 
 Example:
-
+```bash
 sudo python3 vedicrecon-cli.py -t 10.0.2.1 -p fast --exploits --save html
-
+```
 🧩 Installation
 ```bash
 Clone Repository
