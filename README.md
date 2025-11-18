@@ -1,31 +1,18 @@
-✨ VEDICRECON — Active Reconnaissance Scanner
-      .----.
-    _/      \_
-   (  ◉    ◉  )   VedicRecon SCANNER
-    \   __   /
-     '-.__.-'
-        ||
-     ___||___
-    /   ||   \\
-
-
-------------------------------------------
-
 VedicRecon is a lightweight, fast, offensive-security focused reconnaissance tool designed for real-world pentesters, bug bounty hunters, and red team operators.
 
 Built with a modular engine, VedicRecon performs:
 
-# 🔍 ARP-based host discovery
+🔍 ARP-based host discovery
 
-# 🚀 Profile-based Nmap scanning
+🚀 Profile-based Nmap scanning
 
-# 🧠 Smart XML parsing & version extraction
+🧠 Smart XML parsing & version extraction
 
-# 🎯 Noise-reduced exploit enumeration via Searchsploit
+🎯 Noise-reduced exploit enumeration via Searchsploit
 
-# 📄 TXT, XML, and HTML report generation
+📄 TXT, XML, and HTML report generation
 
-# 🐍 100% Python — hackable, extendable, and built for automation
+🐍 100% Python — hackable, extendable, and built for automation
 
 ## *Version: 1.0.a (Alpha)*
 ## *Author: DEVIC / VEDIC*
