@@ -9,6 +9,8 @@
     /   ||   \\
 
 
+------------------------------------------
+
 VedicRecon is a lightweight, fast, offensive-security focused reconnaissance tool designed for real-world pentesters, bug bounty hunters, and red team operators.
 
 Built with a modular engine, VedicRecon performs:
