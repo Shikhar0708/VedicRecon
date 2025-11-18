@@ -126,4 +126,3 @@ def arp_ip_loader():
 
     return select_target_host(hosts)
 
-#arp_ip_loader()
