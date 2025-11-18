@@ -1,3 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Version](https://img.shields.io/badge/Version-1.0.a--alpha-orange)
+![Stars](https://img.shields.io/github/stars/Shikhar0708/VedicRecon?style=flat)
+![Forks](https://img.shields.io/github/forks/Shikhar0708/VedicRecon?style=flat)
+![Issues](https://img.shields.io/github/issues/Shikhar0708/VedicRecon)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 **VedicRecon** is a lightweight, fast, offensive-security focused reconnaissance tool designed for real-world pentesters, bug bounty hunters, and red team operators.
 
 Built with a modular engine, VedicRecon performs:
@@ -169,3 +177,15 @@ sudo python3 vedicrecon.py
 
 # *VedicRecon is built for penetration testers, security researchers, and educational use only.*
 # *Usage on unauthorized networks is strictly prohibited.*
+
+## 👨‍💻 Author
+
+**Shikhar Kant Sinha (DEVIC / VEDIC)**  
+Aspiring Penetration Tester | IoT & Embedded Systems Background  
+Building offensive security tools with a focus on automation and reliability.
+
+- 🔗 GitHub: [Shikhar0708](https://github.com/Shikhar0708)  
+- 🛠️ Projects: VedicRecon, IoT Security Tools, Recon Automations  
+- 📧 Contact: *add your email if you want (optional)*  
+- 🕉️ Motto: *“Knowledge is the first weapon.”*
+
