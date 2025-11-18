@@ -7,7 +7,7 @@ from utils.banner import banner
 from utils.privilege_check import is_root
 from utils.scan_engine import run_nmap_scan
 from utils.arp_engine import arp_ip_loader
-
+banner()
 
 # ============================================================
 #                      CLI INTERFACE
